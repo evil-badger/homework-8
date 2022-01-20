@@ -10,6 +10,7 @@ body{
     width: 1110px;
     margin-left: auto;
     margin-right: auto;
+    background-color: #ffffff;
 }
 
 .menu{
@@ -34,10 +35,15 @@ body{
 }
 
 
+.logo{
+    float:left;
+}
+
 
 
 .chair{
     height:604px;
+    background-image: url(images/chair.png);
     background-color: #f13c6e;
 }
 
