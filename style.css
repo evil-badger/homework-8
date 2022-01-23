@@ -47,6 +47,7 @@ body{
 .content{
     height:1869px;
     background-color: #efefef;
+    
 }
 
 .categories{
@@ -197,6 +198,7 @@ body{
     margin-left: 405px;
 }
 
+
 .list{
     width: 1110px;
     margin-left: auto;
@@ -204,7 +206,90 @@ body{
 }
 
 .item{
+    
     width: 255px;
     height: 363px;
     background-color: white;
+}
+
+
+
+.border{
+
+    background-color: salmon;
+    width: 1140px;
+    height: 363px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.card{
+    background-color: red;
+    display: inline-block;
+    vertical-align: top;
+    width: 255px;
+    height: 363px;
+    margin-right: 30px;
+}
+
+.image{
+
+    background-color:  green;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    padding-left: 65px;
+    width: 125;
+    height: 166;
+}
+
+.description{
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    width: 195px;
+    background-color: saddlebrown;
+    
+}
+
+.price{
+    width: 80px;
+    height: 19px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    background-color: salmon;
+    padding-bottom: 40px;
+}
+
+
+.button2{
+    margin-left: 62px;
+    width: 130px;
+    height: 35px;
+    background: #F13C6E;
+    border-radius: 30px;
+    border:none;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    
 }
