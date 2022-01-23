@@ -25,7 +25,10 @@ body{
     padding-bottom: 16px;
 }
 
-
+.grey{
+    height: 1869px;
+    background-color: #efefef;
+}
 
 
 
@@ -212,11 +215,7 @@ body{
     background-color: white;
 }
 
-
-
 .border{
-
-    background-color: salmon;
     width: 1140px;
     height: 363px;
     margin-left: auto;
@@ -225,7 +224,7 @@ body{
 }
 
 .card{
-    background-color: red;
+    background-color: white;
     display: inline-block;
     vertical-align: top;
     width: 255px;
@@ -235,7 +234,7 @@ body{
 
 .image{
 
-    background-color:  green;
+    
     padding-top: 25px;
     padding-bottom: 20px;
     padding-left: 65px;
@@ -253,7 +252,7 @@ body{
     line-height: 20px;
     text-align: center;
     width: 195px;
-    background-color: saddlebrown;
+
     
 }
 
@@ -270,8 +269,6 @@ body{
     margin-left: auto;
     margin-right: auto;
     padding-top: 20px;
-    padding-bottom: 40px;
-    background-color: salmon;
     padding-bottom: 40px;
 }
 
