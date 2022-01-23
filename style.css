@@ -196,3 +196,15 @@ body{
     width: 308px;
     margin-left: 405px;
 }
+
+.list{
+    width: 1110px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.item{
+    width: 255px;
+    height: 363px;
+    background-color: white;
+}
