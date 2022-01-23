@@ -3,55 +3,57 @@
 }
 
 body{
+    margin: 0;
+}
+
+.header{
+    height:50px;
     background-color: #efefef;
 }
 
-.border{
-    width: 1110px;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: #ffffff;
+.under-header{
+    height:120px;
+    border-bottom: 1px solid #EFEFEF;
 }
 
-.menu{
-    width: 100%;
-    background-color:#ffffff;
-    display: table;
+.menu-second{
+    height: 79px;
 }
-
-.menu ul {
-	display: table-row;
-}
-.menu li {
-	display: table-cell;
-}
-
-.menu li a {
-	display: block;
-	padding: 8px 15px;
-	text-align: center;
-    text-decoration: none; 
-    color:black;
-}
-
-
-.logo{
-    float:left;
-}
-
-
 
 .chair{
-    height:604px;
-    background-image: url(images/chair.png);
-    background-color: #f13c6e;
+    height: 604px;
+    background-color: #F13C6E;
 }
 
-.recent{
-    height:493px;
-    background-color: #ffffff;
+.content{
+    height:1869px;
+    background-color: #efefef;
 }
+
+.categories{
+    height: 373px;
+    border-bottom: 1px solid #EFEFEF;
+}
+
 .footer{
-    height:64px;
+    height: 64px;
+    background-color: #efefef;
+}
+
+.list-item{
+    display: inline-block;
+    vertical-align: top;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    margin: 0 30px;
     
+}
+
+.list-link{
+    text-decoration: none;
+    display: block;
+    color: #333333;
 }
