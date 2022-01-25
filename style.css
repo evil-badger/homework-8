@@ -53,10 +53,7 @@ body{
     
 }
 
-.categories{
-    height: 373px;
-    border-bottom: 1px solid #EFEFEF;
-}
+
 
 .footer{
     height: 64px;
@@ -216,7 +213,6 @@ body{
 }
 
 .border{
-    width: 1140px;
     height: 363px;
     margin-left: 405px;
     padding-top: 38px;
@@ -306,10 +302,22 @@ body{
 
 }
 
+.recent{
+    width: 320px;
+    height: 29px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    margin-left: 405px;
+    padding-top: 80px;
+    padding-bottom: 38px;
+
+}
 
 .border-2{
     width: 1140px;
-    height: 363px;
     margin-left: 405px;
     padding-top: 100px;
     
@@ -481,3 +489,74 @@ body{
  border: 1px solid #EFEFEF;
 }
 
+.border-recent{
+    width: 1140px;
+    margin-left: 405px;
+    padding-top: 38px;
+}
+
+
+.center{
+    width: 1140px;
+    margin-left: 405px;
+}
+
+.red{
+    background-color: red;
+}
+
+.categories{
+    width:1300px;
+    margin-left: 405px;
+    border-bottom: 1px solid #EFEFEF;
+    }
+}
+.green{
+    background-color: seagreen;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.categories-strip{
+    border: 1px solid #EFEFEF;
+}
+
+.categories-card{
+    width: 255px;
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.categories-header{
+    width: 99px;
+    height: 40px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140.62%;
+    margin-bottom: 30px;
+}
+
+.categories-menu{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 28px;
+    margin-top: 25px;
+
+    color: #828282;
+}
+
+.popular{
+    margin-top: 60px;
+}
+
+
+.social{
+    border-top: 1px solid #EFEFEF;
+    margin-top: 60px;
+}
