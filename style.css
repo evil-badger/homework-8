@@ -88,24 +88,6 @@ body{
     height: 120px;
 }
 
-.button1{
-        margin-top: 40px;
-        float:right;
-        width: 170px;
-        height: 40px;
-        background: #FFFFFF;
-        border: 2px solid #F13C6E;
-        box-sizing: border-box;
-        text-decoration: none;
-        text-align: center;
-        border-radius: 40px;
-        font-family: Roboto;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 14px;
-        line-height: 16px;
-        padding-top: 12px;
-}
 
 
 .number{
@@ -508,9 +490,9 @@ body{
 .categories{
     width:1300px;
     margin-left: 405px;
-    border-bottom: 1px solid #EFEFEF;
+ 
     }
-}
+
 .green{
     background-color: seagreen;
 }
@@ -559,4 +541,81 @@ body{
 .social{
     border-top: 1px solid #EFEFEF;
     margin-top: 60px;
+    width: 1100px;
+    margin-left: 405px;
+}
+
+
+.footer-in{
+    width:1110px;
+    margin-left: 405px;
+    padding-top: 25px;
+}
+.rights{
+    float:left;
+    width: 584px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    color: #828282;
+    }
+
+.confidential{
+    float:right;
+    width: 181px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    color: #828282;
+}
+
+
+
+
+
+.detail{
+    float:left;
+    width: 170px;
+    height: 40px;
+    background: #F13C6E;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 40px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding-top: 12px;
+    margin-top: 50px;
+}
+
+
+
+.button1{
+    background: #FFFFFF;
+    border: 2px solid #F13C6E;
+    box-sizing: border-box;
+    border-radius: 40px;
+    width: 170px;
+    height: 40px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color:black;
+    text-decoration: none;
+    padding-top: 12px;
+    margin-top: 40px;
+    float:right; 
 }
