@@ -619,3 +619,8 @@ body{
     margin-top: 40px;
     float:right; 
 }
+
+.item-link{
+    text-decoration: none;
+    color: #828282;
+}
