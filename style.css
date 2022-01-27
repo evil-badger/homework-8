@@ -7,6 +7,11 @@ body{
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
+    
+}
+
+.green{
+    background-color: green;
 }
 
 .clearfix { 
@@ -14,7 +19,6 @@ body{
 }
 
 .header{
-    height:50px;
     background-color: #efefef;
 }
 
@@ -23,11 +27,6 @@ body{
     margin-right: auto;
     padding-top: 17px;
     padding-bottom: 16px;
-}
-
-.center{
-    width: 1140px;
-    margin-left: 405px;
 }
 
 .list{
@@ -50,7 +49,6 @@ body{
 }
 
 .under-header{
-    height:120px;
     border-bottom: 1px solid #EFEFEF;
 }
 
@@ -89,12 +87,10 @@ body{
 .list-link-second{
     text-decoration: none;
     display: block;
-    color: #333333;
-    
+    color: #333333; 
 }
 
 .chair{
-    height: 604px;
     background-color: #F13C6E;
     background-image: url("images/chair.png");
 }
@@ -135,16 +131,16 @@ body{
     margin-top: 50px;
     display: inline-block;
     margin-left: 405px;
+    margin-bottom: 176px;
 }
 
 .grey{
-    height: 1869px;
     background-color: #efefef;
+    padding-bottom: 80px;
 }
 
 .special{
     width: 320px;
-    height: 29px;
     font-size: 24px;
     line-height: 28px;
     margin-left: 405px;
@@ -153,10 +149,7 @@ body{
 }
 
 .border{
-    height: 363px;
     margin-left: 405px;
-    padding-top: 38px;
-    
 }
 
 .recent{
@@ -180,16 +173,16 @@ body{
     display: inline-block;
     vertical-align: top;
     width: 255px;
-    height: 363px;
     margin-right: 30px;
+    padding-bottom: 25px;
 }
 
 .image{
     padding-top: 25px;
     padding-bottom: 20px;
     padding-left: 65px;
-    width: 125;
-    height: 166;
+    width: 125px;
+    
 }
 
 .description{
@@ -268,13 +261,6 @@ body{
     width: 231px;
 }
 
-.stores{
-    background-color: #F13C6E;
-    vertical-align: top;
-    width: 540px;
-    height: 212px;
-}
-
 .mail{
     width: 225px;
     height: 35px;
@@ -292,7 +278,7 @@ body{
 
 .mail-image{
     width: 150px;
-    height: 107px;
+   
     float:right;
     margin-top: 53px;
 }
@@ -308,7 +294,6 @@ body{
 
 .bonus-image{
     width: 150px;
-    height: 150px;
     float:right;
 }
 
@@ -317,7 +302,6 @@ body{
     width: 540px;
     padding-left: 40px;
     padding-right: 45px;
-    height: 212px;
     display: inline-block;
     margin-right: 30px;
 }
@@ -325,6 +309,7 @@ body{
 .map-text{
     width: 250px;
     float: left;
+    margin-bottom: 31px;
 }
 
 .map-header{
@@ -333,6 +318,7 @@ body{
     line-height: 21px;
     color: #FFFFFF;
     margin-top:35px;
+    
 }
 
 .map-content{
@@ -343,6 +329,7 @@ body{
     color: #FFFFFF;
     margin-top: 25px;
     width: 231px;
+    
 }
 
 .map-button{
@@ -364,14 +351,12 @@ body{
 }
 .map-image{ 
     width: 150px;
-    height: 150px;
     float:right;
     margin-right: 45px;
 }
 
 .map-truck{
     width: 150px;
-    height: 107px;
     float:right;
     margin-top: 53px;
 }
@@ -385,10 +370,10 @@ body{
 
 .impuls-cell{
  width: 278px;
- height: 120px;
  float:left;
  padding-left: 60px;
  padding-top:35px;
+ padding-bottom:35px;
  border: 1px solid #EFEFEF;
 }
 
@@ -484,7 +469,6 @@ body{
 }
 
 .footer{
-    height: 64px;
     background-color: #efefef;
 }
 
@@ -492,6 +476,7 @@ body{
     width:1110px;
     margin-left: 405px;
     padding-top: 25px;
+    padding-bottom: 25px;
 }
 
 .rights{
@@ -518,8 +503,3 @@ body{
     margin-right: auto;
 }
 
-.item{
-    width: 255px;
-    height: 363px;
-    background-color: white;
-}
