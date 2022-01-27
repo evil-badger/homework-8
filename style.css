@@ -4,6 +4,9 @@
 
 body{
     margin: 0;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
 }
 
 .clearfix { 
@@ -34,8 +37,6 @@ body{
 .list-item{
     display: inline-block;
     vertical-align: top;
-    font-family: Roboto;
-    font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 16px;
@@ -79,8 +80,6 @@ body{
 .list-item-second{
     display: inline-block;
     vertical-align: top;
-    font-family: Roboto;
-    font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 19px;
@@ -104,17 +103,12 @@ body{
     padding-top: 192px;
     padding-bottom: 50px;
     margin-left: 405px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: bold;
     font-size: 48px;
     line-height: 56px;
     color: #FFFFFF;
 }
 
 .in-chair-action{
-    font-family: Roboto;
-    font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 20px;
@@ -130,8 +124,6 @@ body{
     border: 2px solid #FFFFFF;
     box-sizing: border-box;
     border-radius: 40px;
-    font-family: Roboto;
-    font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 16px;
@@ -153,9 +145,6 @@ body{
 .special{
     width: 320px;
     height: 29px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: bold;
     font-size: 24px;
     line-height: 28px;
     margin-left: 405px;
@@ -173,9 +162,6 @@ body{
 .recent{
     width: 320px;
     height: 29px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: bold;
     font-size: 24px;
     line-height: 28px;
     margin-left: 405px;
@@ -209,8 +195,6 @@ body{
 .description{
     margin-left: auto;
     margin-right: auto;
-    font-family: Roboto;
-    font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 20px;
@@ -221,8 +205,6 @@ body{
 .price{
     width: 80px;
     height: 19px;
-    font-family: Roboto;
-    font-style: normal;
     font-weight: 500;
     font-size: 21px;
     line-height: 25px;
@@ -241,8 +223,6 @@ body{
     background: #F13C6E;
     border-radius: 30px;
     border:none;
-    font-family: Roboto;
-    font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 16px;
@@ -271,8 +251,6 @@ body{
 }
 
 .bonus-header{
-    font-family: Roboto;
-    font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 21px;
@@ -282,8 +260,6 @@ body{
 
 .bonus-content{
     width: 231px;
-    font-family: Roboto;
-    font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 20px;
@@ -309,8 +285,6 @@ body{
     box-sizing: border-box;
     text-align: left;
     padding: 0px 0px 0px 25px;
-    font-family: Roboto;
-    font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 16px;
@@ -354,8 +328,6 @@ body{
 }
 
 .map-header{
-    font-family: Roboto;
-    font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 21px;
@@ -365,8 +337,6 @@ body{
 
 .map-content{
     width: 231px;
-    font-family: Roboto;
-    font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 20px;
@@ -384,8 +354,6 @@ body{
     border: 2px solid #FFFFFF;
     box-sizing: border-box;
     border-radius: 30px;
-    font-family: Roboto;
-    font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 16px;
@@ -442,8 +410,6 @@ body{
 .categories-header{
     width: 99px;
     height: 40px;
-    font-family: Roboto;
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 140.62%;
@@ -455,8 +421,6 @@ body{
 }
 
 .categories-menu{
-    font-family: Roboto;
-    font-style: normal;
     font-weight: normal;
     font-size: 12px;
     line-height: 28px;
@@ -493,8 +457,6 @@ body{
 
 .number{
     float:left;
-    font-family: Roboto;
-    font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 19px;
@@ -510,8 +472,6 @@ body{
     border-radius: 40px;
     width: 170px;
     height: 40px;
-    font-family: Roboto;
-    font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 16px;
@@ -537,8 +497,6 @@ body{
 .rights{
     float:left;
     width: 584px;
-    font-family: Roboto;
-    font-style: normal;
     font-weight: normal;
     font-size: 12px;
     line-height: 14px;
@@ -548,8 +506,6 @@ body{
 .confidential{
     float:right;
     width: 181px;
-    font-family: Roboto;
-    font-style: normal;
     font-weight: normal;
     font-size: 12px;
     line-height: 14px;
