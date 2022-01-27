@@ -321,14 +321,12 @@ body{
 }
 
 .map-content{
-    width: 231px;
+    width: 160px;
     font-weight: normal;
     font-size: 14px;
     line-height: 20px;
     color: #FFFFFF;
-    margin-top: 25px;
-    width: 231px;
-    
+    margin-top: 25px; 
 }
 
 .map-button{
