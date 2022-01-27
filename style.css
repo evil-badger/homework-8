@@ -113,7 +113,6 @@ body{
     height: 40px;
     background: #F13C6E;
     border: 2px solid #FFFFFF;
-    box-sizing: border-box;
     border-radius: 40px;
     font-weight: normal;
     font-size: 14px;
@@ -266,7 +265,6 @@ body{
     border-radius: 30px;
     margin-top: 20px;
     border: none;
-    box-sizing: border-box;
     text-align: left;
     padding: 0px 0px 0px 25px;
     font-weight: normal;
@@ -336,7 +334,6 @@ body{
     color:#FFFFFF;
     background: #F13C6E;
     border: 2px solid #FFFFFF;
-    box-sizing: border-box;
     border-radius: 30px;
     font-weight: normal;
     font-size: 14px;
@@ -455,7 +452,6 @@ body{
 .callback-button{
     background: #FFFFFF;
     border: 2px solid #F13C6E;
-    box-sizing: border-box;
     border-radius: 40px;
     width: 170px;
     height: 40px;
