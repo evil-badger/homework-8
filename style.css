@@ -125,6 +125,7 @@ body{
     padding-top: 12px;
     margin-top: 50px;
     display: inline-block;
+    vertical-align: top;
     margin-left: 405px;
     margin-bottom: 176px;
 }
@@ -218,6 +219,7 @@ body{
     letter-spacing: 0.05em;
     color: #FFFFFF;
     display: inline-block;
+    vertical-align: top;
     text-decoration: none;
     padding-top: 9px;
 }
@@ -235,6 +237,7 @@ body{
     padding-right: 45px;
     height: 212px;
     display: inline-block;
+    vertical-align: top;
     margin-right: 30px;
 }
 
@@ -298,6 +301,7 @@ body{
     padding-left: 40px;
     padding-right: 45px;
     display: inline-block;
+    vertical-align: top;
     margin-right: 30px;
 }
 
@@ -338,6 +342,7 @@ body{
     font-size: 14px;
     line-height: 16px;
     display:inline-block;
+    vertical-align: top;
     text-decoration: none;
     text-align: center;
     padding-top: 9px;
@@ -379,9 +384,14 @@ body{
     margin-top: 60px;
 }
 
+.categories-list{
+    border-top: 1px solid #EFEFEF;
+}
+
 .categories-card{
     width: 255px;
     display: inline-block;
+    vertical-align: top;
     margin-right: 30px;
 }
 
@@ -392,11 +402,7 @@ body{
     font-size: 16px;
     line-height: 140.62%;
     margin-bottom: 30px;
-    border-bottom: 1px solid #EFEFEF;
-}
-
-.categories-strip{
-    border: 1px solid #EFEFEF;
+    
 }
 
 .categories-menu{
@@ -427,6 +433,7 @@ body{
 .icon{
     margin-right: 20px;
     display: inline-block;
+    vertical-align: top;
 }
 
 .callback{
