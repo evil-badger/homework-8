@@ -10,10 +10,6 @@ body{
     
 }
 
-.green{
-    background-color: green;
-}
-
 .clearfix { 
     clear: both; 
 }
@@ -168,7 +164,7 @@ body{
 }
 
 .card{
-    background-color: white;
+    background-color: #FFFFFF;
     display: inline-block;
     vertical-align: top;
     width: 255px;
@@ -333,7 +329,7 @@ body{
     width: 170px;
     height: 35px;
     margin-top: 25px;
-    color:white;
+    color:#FFFFFF;
     background: #F13C6E;
     border: 2px solid #FFFFFF;
     box-sizing: border-box;
@@ -359,7 +355,7 @@ body{
 }
 
 .impuls-grid{
-    background-color: white;
+    background-color: #FFFFFF;
     margin-left: 405px;
     margin-top: 100px;
     width: 1112px;
@@ -460,7 +456,7 @@ body{
     font-size: 14px;
     line-height: 16px;
     text-align: center;
-    color:black;
+    color:#000000;
     text-decoration: none;
     padding-top: 12px;
     margin-top: 40px;
