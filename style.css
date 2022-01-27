@@ -23,10 +23,10 @@ body{
 }
 
 .menu-first{
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 405px;
     padding-top: 17px;
     padding-bottom: 16px;
+    width: 1110px;
 }
 
 .list{
@@ -53,8 +53,7 @@ body{
 }
 
 .under-header-in{
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 405px;
     width: 1110px;
 }
 
@@ -64,11 +63,10 @@ body{
 }
 
 .menu-second{
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 405px;
     padding-top: 30px;
     padding-bottom: 30px;
-
+    width: 1110px;
 }
 
 .list-second{
@@ -93,6 +91,7 @@ body{
 .chair{
     background-color: #F13C6E;
     background-image: url("images/chair.png");
+    background-repeat: no-repeat;
 }
 
 .in-chair{
