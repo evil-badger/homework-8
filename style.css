@@ -19,14 +19,11 @@ body{
 }
 
 .menu-first{
-    margin-left: 405px;
+  
     padding-top: 17px;
     padding-bottom: 16px;
     width: 1110px;
-}
-
-.list{
-    text-align: center;
+    margin-left:736px;
 }
 
 .list-item{
@@ -35,7 +32,8 @@ body{
     font-weight: normal;
     font-size: 14px;
     line-height: 16px;
-    margin: 0 30px;
+    margin-right: 30px;
+    color: #000000;
 }
 
 .list-link{
@@ -59,15 +57,13 @@ body{
 }
 
 .menu-second{
-    margin-left: 405px;
+    margin-left: 622px;
     padding-top: 30px;
     padding-bottom: 30px;
     width: 1110px;
 }
 
-.list-second{
-    text-align: center;
-}
+
 
 .list-item-second{
     display: inline-block;
@@ -75,7 +71,7 @@ body{
     font-weight: normal;
     font-size: 16px;
     line-height: 19px;
-    margin: 0 40px;
+    margin-right:40px;
 }
 
 .list-link-second{
@@ -201,11 +197,12 @@ body{
     margin-left: auto;
     margin-right: auto;
     padding-top: 20px;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
 }
 
 .button-buy{
     margin-left: 62px;
+    margin-top: 20px;
     width: 130px;
     height: 35px;
     background: #F13C6E;
@@ -370,6 +367,8 @@ body{
  padding-top:35px;
  padding-bottom:35px;
  border: 1px solid #EFEFEF;
+ display:inline-block;
+ vertical-align: top;
 }
 
 .categories{
@@ -435,7 +434,7 @@ body{
 
 .callback{
     float:right;
-    width: 374px;
+    width: 337px;
     height: 120px;
 }
 
